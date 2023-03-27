@@ -16,7 +16,6 @@
 - [api](#api)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
-- [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -305,10 +304,6 @@
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 
-## atom 
-
-- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-
 ## automation 
 
 - [yohamta/dagu](https://github.com/yohamta/dagu) - Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
@@ -381,7 +376,6 @@
 
 ## aws 
 
-- [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [akrylysov/algnhsa](https://github.com/akrylysov/algnhsa) - AWS Lambda Go net/http server adapter
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, CI/CD, Jenkins, TeamCity, BuildKite, GitHub Actions, Cloud SQL, F
@@ -527,7 +521,6 @@
 - [tektoncd/cli](https://github.com/tektoncd/cli) - A CLI for interacting with Tekton!
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -589,7 +582,6 @@
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
-- [defndaines/meiro](https://github.com/defndaines/meiro) - Maze generation code, inspired by Mazes for Programmers.
 
 ## code 
 
@@ -606,6 +598,7 @@
 
 ## compiler 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
@@ -789,7 +782,6 @@
 
 ## devops 
 
-- [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, CI/CD, Jenkins, TeamCity, BuildKite, GitHub Actions, Cloud SQL, F
@@ -1083,7 +1075,6 @@
 - [lafriks/go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
@@ -1169,7 +1160,6 @@
 ## golang 
 
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
@@ -1180,7 +1170,6 @@
 - [lafriks/go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
 - [veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client) - Tiny BitTorrent client written in Go
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
@@ -2155,6 +2144,7 @@
 
 ## others 
 
+- [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - 
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
@@ -2171,7 +2161,6 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [vasanthv/tlk](https://github.com/vasanthv/tlk) - Group video call for the web. No signups. No downloads.
 - [golang-ui/nuklear](https://github.com/golang-ui/nuklear) - This project provides Go bindings for nuklear.h — a small ANSI C GUI library.
-- [dolthub/maphash](https://github.com/dolthub/maphash) - 
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [orf/hq](https://github.com/orf/hq) - jq, but for HTML
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -2205,7 +2194,6 @@
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
-- [ardanlabs/blockchain](https://github.com/ardanlabs/blockchain) - 
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [AckslD/nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments, powered by treesitter
 - [ryanolsonx/vim-xit](https://github.com/ryanolsonx/vim-xit) - [x]it! syntax highlighting for Vim
@@ -2440,7 +2428,6 @@
 - [gngeorgiev/JsShell](https://github.com/gngeorgiev/JsShell) - :computer: A JavaScript based unix shell with pure JavaScript configs
 - [egoist/native-toast](https://github.com/egoist/native-toast) - Native-like toast notification but for the web.
 - [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
-- [OfficeDev/Office-Add-in-Fabric-UI-Sample](https://github.com/OfficeDev/Office-Add-in-Fabric-UI-Sample) - [ARCHIVED]
 - [erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [HenrikJoreteg/hjs-webpack](https://github.com/HenrikJoreteg/hjs-webpack) - Helpers/presets for setting up webpack with hotloading react and ES6(2015) using Babel.
@@ -2449,7 +2436,6 @@
 - [mattallty/muguet](https://github.com/mattallty/muguet) - DNS Server & Reverse proxy for Docker - Compatible with docker-compose, boot2docker and docker-machine
 - [payner35/generator-meteor-react](https://github.com/payner35/generator-meteor-react) - Yeoman generator for Meteor and React.js views
 - [barc/backbone.giraffe](https://github.com/barc/backbone.giraffe) - A light and flexible library that extends Backbone.js to new heights.
-- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 
 ## p2p 
 
@@ -2490,7 +2476,6 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
-- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [graphile/worker](https://github.com/graphile/worker) - High performance Node.js/PostgreSQL job queue (also suitable for getting jobs generated by PostgreSQL triggers/functions out into a different work queue)
