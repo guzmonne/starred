@@ -36,6 +36,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -336,6 +337,7 @@
 
 ## JavaScript 
 
+- [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
@@ -898,6 +900,7 @@
 
 ## Rust 
 
+- [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
@@ -1001,6 +1004,10 @@
 ## Starlark 
 
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
+
+## Svelte 
+
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 
 ## Swift 
 
