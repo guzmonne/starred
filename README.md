@@ -348,7 +348,6 @@
 - [vasanthv/tlk](https://github.com/vasanthv/tlk) - Group video call for the web. No signups. No downloads.
 - [awslabs/visual-asset-management-system](https://github.com/awslabs/visual-asset-management-system) - Visual Asset Management System (VAMS) is a purpose-built, AWS native solution for the management and distribution of specialized visual assets used in spatial computing.
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
-- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [nitrictech/node-sdk](https://github.com/nitrictech/node-sdk) - Node SDK for Nitric
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
@@ -646,7 +645,7 @@
 
 ## Lua 
 
-- [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - 
+- [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [arjunmahishi/flow.nvim](https://github.com/arjunmahishi/flow.nvim) - A neovim plugin that lets you build custom commands to automate parts of your development workflow
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
@@ -723,6 +722,7 @@
 ## Makefile 
 
 - [vasdee/git-tag-flow](https://github.com/vasdee/git-tag-flow) - An alternative GIT workflow strategy, inspired by the best parts of git-flow, trunk based development and GitOps
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
@@ -765,7 +765,6 @@
 - [dair-ai/nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) - ✍️ A carefully curated list of NLP paper summaries
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [zero-equals-false/awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Secur
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
@@ -1029,6 +1028,7 @@
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
+- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
