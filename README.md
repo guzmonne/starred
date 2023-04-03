@@ -395,7 +395,6 @@
 - [eva-engine/eva.js](https://github.com/eva-engine/eva.js) - Eva.js is a front-end game engine specifically for creating interactive game projects.
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
 - [ourcade/phaser3-parcel-template](https://github.com/ourcade/phaser3-parcel-template) - Create Phaser 3 games at blazing speed with Parcel 🚀🎮📦
-- [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views
 - [tungs/timecut](https://github.com/tungs/timecut) - Node.js program to record smooth movies of web pages with JavaScript animations
 - [tungs/timeweb](https://github.com/tungs/timeweb) - Library that overwrites JavaScript time in browser
@@ -717,7 +716,7 @@
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 
 ## Makefile 
 
@@ -1092,6 +1091,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [bitworking/react-gsap](https://github.com/bitworking/react-gsap) - React components for GSAP
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
+- [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [stevelacy/kuberhaus](https://github.com/stevelacy/kuberhaus) - Kubernetes resource dashboard with node/pod layout and resource requests
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
