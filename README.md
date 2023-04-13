@@ -154,7 +154,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
-- [yohamta/dagu](https://github.com/yohamta/dagu) - Powerful Cron Alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [yohamta/dagu](https://github.com/yohamta/dagu) - Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [micro/services](https://github.com/micro/services) - Real World Micro Services
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -756,7 +756,6 @@
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [bahlo/go-styleguide](https://github.com/bahlo/go-styleguide) - 🏆 Opinionated Styleguide for the Go language
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
-- [chalice-dev/awesome-chalice](https://github.com/chalice-dev/awesome-chalice) - Discover the power of AWS Chalice, the ultimate framework for crafting seamless Python serverless applications. With Chalice, you can effortlessly build and manage HTTPS APIs, create web apps using po
 - [Urigo/WhatsApp-Clone-Tutorial](https://github.com/Urigo/WhatsApp-Clone-Tutorial) - https://www.tortilla.academy/Urigo/WhatsApp-Clone-Tutorial
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
