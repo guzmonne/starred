@@ -82,6 +82,7 @@
 - [game-engine](#game-engine)
 - [gamemaker](#gamemaker)
 - [games](#games)
+- [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -1050,6 +1051,10 @@
 - [raysan5/raylib-games](https://github.com/raysan5/raylib-games) - A collection of games made with raylib
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Next-generation HTML renderer for apps and games
+
+## gh-extension 
+
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 
 ## git 
 
