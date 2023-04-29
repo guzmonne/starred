@@ -520,6 +520,7 @@
 
 ## cli 
 
+- [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, and multi-threaded filesystem and disk usage tool that respects hidden file and gitignore rules.
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
@@ -2861,6 +2862,7 @@
 
 ## rust 
 
+- [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, and multi-threaded filesystem and disk usage tool that respects hidden file and gitignore rules.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
 - [framesurge/perseus](https://github.com/framesurge/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
