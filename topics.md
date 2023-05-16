@@ -2303,7 +2303,7 @@
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
 - [willryan/factory.ts](https://github.com/willryan/factory.ts) - A library to ease creation of factories for test data for Typescript
 - [prisma-labs/konn](https://github.com/prisma-labs/konn) - 
-- [MyStarship/starship](https://github.com/MyStarship/starship) - "With my blazing fast starship and super smart AI assistant, I can observe everything in my planet". Starship is a lightweight observability and APM platform that provides fully observability for your
+- [DataObserve/datav](https://github.com/DataObserve/datav) - Datav is a observability and APM platform, providing fully observability for your business and infrastructure.
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [grid-js/gridjs-react](https://github.com/grid-js/gridjs-react) - React component for Grid.js
