@@ -361,7 +361,7 @@
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [craigmulligan/js-fire](https://github.com/craigmulligan/js-fire) - A javascript clone of google/python-fire 🔥
-- [eruptionjs/core](https://github.com/eruptionjs/core) - Next Generation Boilerplate for React/Typescript, built on top of Vite ⚡️
+- [eruptionjs/core](https://github.com/eruptionjs/core) - Boilerplate for React/Typescript, built on top of Vite ⚡️
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [flekschas/piling.js](https://github.com/flekschas/piling.js) - A general framework and library for exploring thousands of small multiples
