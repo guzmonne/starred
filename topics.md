@@ -174,6 +174,7 @@
 - [sass](#sass)
 - [scala](#scala)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -575,6 +576,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [wintercounter/mhy](https://github.com/wintercounter/mhy) - 🧩 A zero-config, out-of-the-box, multi-purpose toolbox and development environment
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
@@ -616,7 +618,7 @@
 
 ## computer-vision 
 
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
+- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [Machine-Learning-Tokyo/papers-with-annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations) - Research papers with annotations, illustrations and explanations
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -703,14 +705,14 @@
 
 ## data-analysis 
 
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
+- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [data-forge/data-forge-ts](https://github.com/data-forge/data-forge-ts) - The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
 
 ## data-science 
 
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
+- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
@@ -761,7 +763,7 @@
 ## deep-learning 
 
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
+- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [Machine-Learning-Tokyo/papers-with-annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations) - Research papers with annotations, illustrations and explanations
@@ -1016,6 +1018,7 @@
 
 ## game 
 
+- [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
 - [m110/airplanes](https://github.com/m110/airplanes) - A 2D shoot 'em up game made with Go, Ebitengine, and donburi. Featuring ECS (Entity Component System).
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
@@ -1835,7 +1838,7 @@
 ## machine-learning 
 
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
+- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
@@ -2203,7 +2206,7 @@
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [vasanthv/tlk](https://github.com/vasanthv/tlk) - Group video call for the web. No signups. No downloads.
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [golang-ui/nuklear](https://github.com/golang-ui/nuklear) - This project provides Go bindings for nuklear.h — a small ANSI C GUI library.
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -2370,7 +2373,6 @@
 - [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file
 - [franciscop/ola](https://github.com/franciscop/ola) - 🌊 Smooth animation library for interpolating numbers
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
-- [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [ziishaned/dumper.js](https://github.com/ziishaned/dumper.js) - A better and pretty variable inspector for your Node.js applications
@@ -2509,6 +2511,7 @@
 
 ## pixel-art 
 
+- [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 
 ## postgresql 
@@ -2573,7 +2576,7 @@
 
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
+- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Premium Message Queue for NodeJS based on Redis
@@ -2711,6 +2714,7 @@
 - [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
+- [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
@@ -2872,6 +2876,7 @@
 
 ## rust 
 
+- [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, and multi-threaded filesystem and disk usage tool that respects hidden file and gitignore rules.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
@@ -2888,7 +2893,7 @@
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
-- [eto-ai/lance](https://github.com/eto-ai/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
+- [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [orf/hq](https://github.com/orf/hq) - jq, but for HTML
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
@@ -2942,6 +2947,15 @@
 - [denji/golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
+## self-hosted 
+
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## server 
 
