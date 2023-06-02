@@ -980,7 +980,7 @@
 - [FreeRADIUS/freeradius-client](https://github.com/FreeRADIUS/freeradius-client) - A BSD licenced RADIUS client library
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [ali5ter/ansi-color](https://github.com/ali5ter/ansi-color) - 🎨 Bash ANSI color script migrated from https://code.google.com/p/ansi-color/
-- [digitalnomadru/bash_colors](https://github.com/digitalnomadru/bash_colors) - The library defines verbal constants and functions for terminal colors.
+- [technobomz/bash_colors](https://github.com/technobomz/bash_colors) - The library defines verbal constants and functions for terminal colors.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
 - [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
@@ -1026,6 +1026,7 @@
 
 ## TypeScript 
 
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
