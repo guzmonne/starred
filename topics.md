@@ -2450,7 +2450,6 @@
 - [alexreardon/raf-schd](https://github.com/alexreardon/raf-schd) - A throttle function that uses requestAnimationFrame to rate limit
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [ncase/sight-and-light](https://github.com/ncase/sight-and-light) - A programming tutorial for sight & light
-- [ymiroshnyk/neutrinoparticles.js](https://github.com/ymiroshnyk/neutrinoparticles.js) - !!! PROJECT MIGRATED !!! -------------------------------------------------------------&gt;
 - [fvgs/timercore](https://github.com/fvgs/timercore) - :hourglass: Precision Node.js timer library
 - [aosabook/aosabook](https://github.com/aosabook/aosabook) - The Architecture of Open Source Applications
 - [vadimdemedes/dom-chef](https://github.com/vadimdemedes/dom-chef) - 🍔 Build DOM elements using JSX automatically
