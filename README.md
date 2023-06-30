@@ -543,7 +543,6 @@
 - [0xs34n/blockchain-cli](https://github.com/0xs34n/blockchain-cli) - ⛓️ A minimal blockchain command-line interface.
 - [alexreardon/raf-schd](https://github.com/alexreardon/raf-schd) - A throttle function that uses requestAnimationFrame to rate limit
 - [photonstorm/phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [ymiroshnyk/neutrinoparticles.js](https://github.com/ymiroshnyk/neutrinoparticles.js) - !!! PROJECT MIGRATED !!! -------------------------------------------------------------&gt;
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
 - [gajus/usus](https://github.com/gajus/usus) - Webpage pre-rendering service. ⚡️
 - [fvgs/timercore](https://github.com/fvgs/timercore) - :hourglass: Precision Node.js timer library
