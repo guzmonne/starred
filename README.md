@@ -1077,7 +1077,7 @@
 - [suchipi/pheno](https://github.com/suchipi/pheno) - Simple, lightweight at-runtime type checking functions, with full TypeScript support
 - [jjenzz/remix-stitches](https://github.com/jjenzz/remix-stitches) - 
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
-- [functionless/typesafe-dynamodb](https://github.com/functionless/typesafe-dynamodb) - TypeSafe type definitions for the AWS DynamoDB API
+- [sam-goodwin/typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) - TypeSafe type definitions for the AWS DynamoDB API
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [codecks-io/react-sticky-box](https://github.com/codecks-io/react-sticky-box) - Sticky boxes for contents of all sizes
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
