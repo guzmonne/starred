@@ -2290,7 +2290,7 @@
 - [jjenzz/remix-stitches](https://github.com/jjenzz/remix-stitches) - 
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
-- [functionless/typesafe-dynamodb](https://github.com/functionless/typesafe-dynamodb) - TypeSafe type definitions for the AWS DynamoDB API
+- [sam-goodwin/typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) - TypeSafe type definitions for the AWS DynamoDB API
 - [codecks-io/react-sticky-box](https://github.com/codecks-io/react-sticky-box) - Sticky boxes for contents of all sizes
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
