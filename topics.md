@@ -1040,7 +1040,7 @@
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
 - [Moguri/pman](https://github.com/Moguri/pman) - A Python package to help bootstrap and manage Panda3D applications
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Ultra-portable web-browser engine for game and app developers.
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
@@ -1066,7 +1066,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
 - [Moguri/pman](https://github.com/Moguri/pman) - A Python package to help bootstrap and manage Panda3D applications
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Ultra-portable web-browser engine for game and app developers.
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -1079,7 +1079,7 @@
 
 - [raysan5/raylib-games](https://github.com/raysan5/raylib-games) - A collection of games made with raylib
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Ultra-portable web-browser engine for game and app developers.
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 
 ## gh-extension 
 
@@ -1797,7 +1797,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Ultra-portable web-browser engine for game and app developers.
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
@@ -1888,7 +1888,7 @@
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Ultra-portable web-browser engine for game and app developers.
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [pojala/termipal](https://github.com/pojala/termipal) - Instant, native micro-GUIs for shell scripts and command line apps
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 
@@ -2206,7 +2206,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [tdewolff/canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Ultra-portable web-browser engine for game and app developers.
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 
 ## operating-system 
 
@@ -3414,7 +3414,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Ultra-portable web-browser engine for game and app developers.
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [crombeen/ansible](https://github.com/crombeen/ansible) - Ansible playbooks for managing an elementary school IT infrastructure (mostly Windows desktops)
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows
