@@ -379,7 +379,7 @@
 - [0phoff/MDXP](https://github.com/0phoff/MDXP) - Web Slides Made Easy
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [rosiejs/rosie](https://github.com/rosiejs/rosie) - factory for building JavaScript objects, mostly useful for setting up test data. Inspired by factory_girl
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 - [gregnb/mui-datatables](https://github.com/gregnb/mui-datatables) - Datatables for React using Material-UI - https://www.material-ui-datatables.com
 - [linkedin/dustjs](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
@@ -636,7 +636,7 @@
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) - NMA Computational Neuroscience course
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 - [gluon-api/gluon-api](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning.
@@ -950,7 +950,7 @@
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
