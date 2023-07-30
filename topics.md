@@ -2311,7 +2311,7 @@
 - [tybenz/vimdeck](https://github.com/tybenz/vimdeck) - VIM as a presentation tool
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - 
-- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [srdz-af/vim-ide](https://github.com/srdz-af/vim-ide) - My personal vim config file.
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -2338,7 +2338,7 @@
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
 - [willryan/factory.ts](https://github.com/willryan/factory.ts) - A library to ease creation of factories for test data for Typescript
 - [prisma-labs/konn](https://github.com/prisma-labs/konn) - 
-- [DataObserve/datav](https://github.com/DataObserve/datav) - A modern data visualization platform, mainly focus on observability and APM
+- [DataObserve/datav](https://github.com/DataObserve/datav) - 
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [grid-js/gridjs-react](https://github.com/grid-js/gridjs-react) - React component for Grid.js
