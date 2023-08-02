@@ -439,6 +439,7 @@
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [yandeu/phaser-project-template-es6](https://github.com/yandeu/phaser-project-template-es6) - Phaser 3 - Starter Template with ES6 (ESNext features included) and webpack.
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+- [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [dimaskiddo/codebase-nodejs-rest](https://github.com/dimaskiddo/codebase-nodejs-rest) - Codebase for REST API in NodeJS
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [miukimiu/react-kawaii](https://github.com/miukimiu/react-kawaii) - Cute SVG React Components
@@ -860,7 +861,6 @@
 - [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [apryor6/flaskerize](https://github.com/apryor6/flaskerize) - Python CLI build/dev tool for templated code generation and project modification. Think Angular schematics for Python.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
@@ -905,6 +905,7 @@
 
 ## Rust 
 
+- [zurawiki/tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - Ready-made tokenizer library for working with GPT and tiktoken
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
