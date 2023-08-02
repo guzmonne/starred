@@ -216,6 +216,7 @@
 ## ai 
 
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
@@ -2221,7 +2222,6 @@
 ## others 
 
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [AlyHKafoury/Operator-rs](https://github.com/AlyHKafoury/Operator-rs) - a Kubernetes Operator written in Rust
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.
@@ -2610,6 +2610,7 @@
 ## python 
 
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs. Discord: https://discord.gg/fweVnRx6CU
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
@@ -2840,7 +2841,6 @@
 
 ## reactjs 
 
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [eruptionjs/core](https://github.com/eruptionjs/core) - Boilerplate for React/Typescript, built on top of Vite ⚡️
@@ -2913,6 +2913,7 @@
 
 ## rust 
 
+- [zurawiki/tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - Ready-made tokenizer library for working with GPT and tiktoken
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
