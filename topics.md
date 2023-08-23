@@ -2224,7 +2224,7 @@
 
 ## others 
 
-- [srush/llama2.rs](https://github.com/srush/llama2.rs) - 
+- [srush/llama2.rs](https://github.com/srush/llama2.rs) - A fast llama2 decoder in pure Rust.
 - [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
 - [AlyHKafoury/Operator-rs](https://github.com/AlyHKafoury/Operator-rs) - a Kubernetes Operator written in Rust
