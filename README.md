@@ -524,7 +524,7 @@
 - [React-Sight/React-Sight](https://github.com/React-Sight/React-Sight) - Visualization tool for React, with support for Fiber, Router (v4), and Redux
 - [ndrabins/react-redux-firebase-material-electron-starter](https://github.com/ndrabins/react-redux-firebase-material-electron-starter) - Create-react-app with some awesome technologies to get started building great apps quick
 - [kolodny/exercises](https://github.com/kolodny/exercises) - Some basic javascript coding challenges and interview questions
-- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
+- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [amazon-archives/aws-mobile-react-native-starter](https://github.com/amazon-archives/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
 - [FormidableLabs/electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) - Electron Desktop GUI for Webpack Dashboard
 - [stojanovic/scottyjs](https://github.com/stojanovic/scottyjs) - Deploy static websites and single page apps to AWS S3 and CloudFront with a single command
@@ -601,7 +601,7 @@
 - [js-joda/js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript
 - [MaxArt2501/re-build](https://github.com/MaxArt2501/re-build) - Building regular expressions with natural language
 - [team-gryff/react-monocle](https://github.com/team-gryff/react-monocle) - A developer tool to visualize a React application's component hierarchy.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [tonyhb/redux-boilerplate](https://github.com/tonyhb/redux-boilerplate) - react-app-rewired, kea, recompose, emotion, flow, eslint, prettier
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [diegoddox/react-redux-toastr](https://github.com/diegoddox/react-redux-toastr) - react-redux-toastr is a toastr message implemented with Redux
