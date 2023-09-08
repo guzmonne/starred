@@ -1392,6 +1392,7 @@
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 - [JuliaAnimators/Javis.jl](https://github.com/JuliaAnimators/Javis.jl) - Julia Animations and Visualizations
 - [sinedied/backslide](https://github.com/sinedied/backslide) - :sweat_drops: CLI tool for making HTML presentations with Remark.js using Markdown
