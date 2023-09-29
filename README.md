@@ -591,7 +591,7 @@
 - [i-break-codes/scrum-board](https://github.com/i-break-codes/scrum-board) - JavaScript Scrum App to manage tasks with ease
 - [MoonMail/MoonMail](https://github.com/MoonMail/MoonMail) - Email marketing platform for bulk emailing via Amazon SES (Google Cloud Platform and Azure coming soon)
 - [borisyankov/react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 - [tonyhb/redux-ui](https://github.com/tonyhb/redux-ui) - Easy UI state management for react redux
 - [KyleAMathews/react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it
@@ -1117,7 +1117,7 @@
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
-- [data-observe/datav](https://github.com/data-observe/datav) - A modern data visualization  platform for APM and Observability. View metrics, traces and logs in one place and  correlate them deeply.  An alternative to Grafana in Observability scenario.
+- [data-observe/datav](https://github.com/data-observe/datav) - Datav is an observability platform with native support for OpenTelemetry, Prometheus and Jaeger.  :unicorn: You can conveniently view metrics, traces, and logs all in one place and correlate them seam
 - [wellyshen/react-cool-virtual](https://github.com/wellyshen/react-cool-virtual) - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 - [grid-js/gridjs-react](https://github.com/grid-js/gridjs-react) - React component for Grid.js
