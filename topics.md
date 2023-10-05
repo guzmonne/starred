@@ -2309,7 +2309,6 @@
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [AckslD/nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments, powered by treesitter
-- [ryanolsonx/vim-xit](https://github.com/ryanolsonx/vim-xit) - [x]it! syntax highlighting for Vim
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [AckslD/nvim-revJ.lua](https://github.com/AckslD/nvim-revJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments written in lua.
 - [remix-run/indie-stack](https://github.com/remix-run/indie-stack) - The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
