@@ -16,6 +16,7 @@
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Haxe](#haxe)
+- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -332,6 +333,10 @@
 ## Haxe 
 
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
+
+## Janet 
+
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 
 ## Java 
 
@@ -672,7 +677,6 @@
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 - [AckslD/nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments, powered by treesitter
-- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [AckslD/nvim-revJ.lua](https://github.com/AckslD/nvim-revJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments written in lua.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
@@ -1117,7 +1121,7 @@
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
-- [data-observe/datav](https://github.com/data-observe/datav) - A fully customizable and programmable observability platform with native support for OpenTelemetry.  :unicorn: You can view metrics, traces, and logs in one place and correlate them seamlessly. Datav 
+- [data-observe/datav](https://github.com/data-observe/datav) - :unicorn: Fully Customizable and programmable observability platform.  :unicorn: Monitor any applications using OpenTelemetry, eBPF and clickhouse.  🚀 Aggregate metrics on traces and logs to get a rel
 - [wellyshen/react-cool-virtual](https://github.com/wellyshen/react-cool-virtual) - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 - [grid-js/gridjs-react](https://github.com/grid-js/gridjs-react) - React component for Grid.js
