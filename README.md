@@ -397,7 +397,6 @@
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
-- [sensedeep/dynamodb-onetable](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB access and management for one table designs with NodeJS
 - [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 - [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner) - Simple Kubernetes real-time dashboard and management.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1125,6 +1124,7 @@
 - [data-observe/datav](https://github.com/data-observe/datav) - 🦄 Fully Customizable and programmable observability platform.  🦄 Monitor your services using OpenTelemetry, eBPF and clickhouse. 🚀 Aggregate metrics on traces and logs to get a relevant view into busi
 - [wellyshen/react-cool-virtual](https://github.com/wellyshen/react-cool-virtual) - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
+- [sensedeep/dynamodb-onetable](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB access and management for one table designs with NodeJS
 - [grid-js/gridjs-react](https://github.com/grid-js/gridjs-react) - React component for Grid.js
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [bitworking/react-gsap](https://github.com/bitworking/react-gsap) - React components for GSAP
