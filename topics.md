@@ -2474,7 +2474,6 @@
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [eropple/taskbotjs](https://github.com/eropple/taskbotjs) - My favorite JS/TS job processing framework. Maybe yours too? [ARCHIVED]
 - [uber/react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
-- [HeroicCybersecurity/awesome-hacking](https://github.com/HeroicCybersecurity/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [toddwschneider/stocks](https://github.com/toddwschneider/stocks) - A free, lightweight, blazing-fast static page to get stock quotes using IEX Cloud
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
