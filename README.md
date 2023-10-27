@@ -103,7 +103,6 @@
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
-- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [tmoreton/useful.ly](https://github.com/tmoreton/useful.ly) - useful.ly Flexbox-Based CSS Framework
 - [chenjiahan/rodal](https://github.com/chenjiahan/rodal) - A React modal with animations.
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
@@ -326,6 +325,7 @@
 - [ncase/sight-and-light](https://github.com/ncase/sight-and-light) - A programming tutorial for sight & light
 - [aosabook/aosabook](https://github.com/aosabook/aosabook) - The Architecture of Open Source Applications
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [ireade/Toast.js](https://github.com/ireade/Toast.js) - A library for Toast messages
 - [egoist/native-toast](https://github.com/egoist/native-toast) - Native-like toast notification but for the web.
 - [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
@@ -395,7 +395,7 @@
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
 - [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 - [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner) - Simple Kubernetes real-time dashboard and management.
@@ -832,7 +832,7 @@
 - [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
