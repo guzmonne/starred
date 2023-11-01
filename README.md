@@ -284,7 +284,7 @@
 - [xitongsys/parquet-go](https://github.com/xitongsys/parquet-go) - pure golang library for reading/writing parquet file
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [TheThingsNetwork/lorawan-stack](https://github.com/TheThingsNetwork/lorawan-stack) - The Things Stack, an Open Source LoRaWAN Network Server
 - [amazon-archives/aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
