@@ -2496,7 +2496,7 @@
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [faceyspacey/redux-first-router](https://github.com/faceyspacey/redux-first-router) - 🎖 seamless redux-first routing -- just dispatch actions
 - [rtfeldman/seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [netgfx/Phaser-FloatingText](https://github.com/netgfx/Phaser-FloatingText) - A floating text plugin for Phaser, with many effects to choose from
 - [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
