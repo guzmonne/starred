@@ -539,7 +539,7 @@
 - [rtfeldman/seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
 - [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
 - [sghall/resonance](https://github.com/sghall/resonance) - :black_medium_small_square:Resonance | 5kb React animation library
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [Jerenaux/phaserquest](https://github.com/Jerenaux/phaserquest) - Reproduction of Mozilla's BrowserQuest using Phaser, socket.io and Node.js
 - [netgfx/Phaser-FloatingText](https://github.com/netgfx/Phaser-FloatingText) - A floating text plugin for Phaser, with many effects to choose from
 - [faaslang/faaslang](https://github.com/faaslang/faaslang) - FaaSlang defines FaaS execution semantics and type-safety mechanisms
