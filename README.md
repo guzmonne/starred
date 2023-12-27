@@ -514,7 +514,7 @@
 - [zouhir/jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid (table) component for React
 - [evilsoft/crocks](https://github.com/evilsoft/crocks) - A collection of well known Algebraic Data Types for your utter enjoyment.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
 - [Pau1fitz/react-spotify](https://github.com/Pau1fitz/react-spotify) - Spotify React / Redux   🎤🎺🎸🎷
 - [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
