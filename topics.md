@@ -2385,7 +2385,7 @@
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [DCurrent/openbor](https://github.com/DCurrent/openbor) - OpenBOR is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more!
 - [tldraw/intersect](https://github.com/tldraw/intersect) - 2D intersection utilities for TLDraw and maybe you, too.
-- [gregnb/mui-datatables](https://github.com/gregnb/mui-datatables) - Datatables for React using Material-UI - https://www.material-ui-datatables.com
+- [gregnb/mui-datatables](https://github.com/gregnb/mui-datatables) - Datatables for React using Material-UI
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [linkedin/dustjs](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
