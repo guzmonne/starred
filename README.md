@@ -184,7 +184,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
-- [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, accou
@@ -676,7 +676,7 @@
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 - [AckslD/nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments, powered by treesitter
-- [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
+- [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim extension for zk
 - [AckslD/nvim-revJ.lua](https://github.com/AckslD/nvim-revJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments written in lua.
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) - A Vim Philosophy Oriented Zettelkasten Note Taking Plugin
