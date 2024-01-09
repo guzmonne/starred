@@ -1068,14 +1068,14 @@
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a lightweight HTML5 game engine with many features and no depenencies. 🚂 Choo-Choo!
 - [Moguri/pman](https://github.com/Moguri/pman) - A Python package to help bootstrap and manage Panda3D applications
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
-- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
 ## game-engine 
 
@@ -1083,7 +1083,7 @@
 - [yohamta/donburi](https://github.com/yohamta/donburi) - Just another ECS library for Ebitengine
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a lightweight HTML5 game engine with many features and no depenencies. 🚂 Choo-Choo!
 - [eva-engine/eva.js](https://github.com/eva-engine/eva.js) - Eva.js is a front-end game engine specifically for creating interactive game projects.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 
@@ -1095,12 +1095,12 @@
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a lightweight HTML5 game engine with many features and no depenencies. 🚂 Choo-Choo!
 - [Moguri/pman](https://github.com/Moguri/pman) - A Python package to help bootstrap and manage Panda3D applications
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
-- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
 ## gamemaker 
 
@@ -1578,7 +1578,7 @@
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a lightweight HTML5 game engine with many features and no depenencies. 🚂 Choo-Choo!
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [marblejs/marble](https://github.com/marblejs/marble) - Marble.js - functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
@@ -1615,7 +1615,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [franciscop/react-plain-router](https://github.com/franciscop/react-plain-router) - 🛣 A 2kb React router that works exactly as expected with native Javascript
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
-- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [imbrn/v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -1648,7 +1648,7 @@
 - [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
 - [0xs34n/blockchain-cli](https://github.com/0xs34n/blockchain-cli) - ⛓️ A minimal blockchain command-line interface.
-- [photonstorm/phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/phaser-ce](https://github.com/phaserjs/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
@@ -2479,7 +2479,7 @@
 - [oclif/cli-ux](https://github.com/oclif/cli-ux) - CLI IO utilities
 - [ArunMichaelDsouza/react-image-appear](https://github.com/ArunMichaelDsouza/react-image-appear) - ReactJS component to make images appear with transition as they load.
 - [mikestaub/serverless-express](https://github.com/mikestaub/serverless-express) - Run your unmodified express app on AWS Lambda via the Serverless framework.
-- [photonstorm/phaser3-project-template](https://github.com/photonstorm/phaser3-project-template) - A Phaser 3 Project Template
+- [phaserjs/template-webpack](https://github.com/phaserjs/template-webpack) - A Phaser 3 Project Template
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
@@ -2585,9 +2585,9 @@
 - [proyecto26/ion-phaser](https://github.com/proyecto26/ion-phaser) - A web component to use Phaser Framework with Angular, React, Vue, etc 🎮
 - [digitsensitive/phaser3-typescript](https://github.com/digitsensitive/phaser3-typescript) - Phaser 3 and TypeScript
 - [rexrainbow/phaser3-rex-notes](https://github.com/rexrainbow/phaser3-rex-notes) - Notes of phaser3 engine
-- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [Jerenaux/phaserquest](https://github.com/Jerenaux/phaserquest) - Reproduction of Mozilla's BrowserQuest using Phaser, socket.io and Node.js
-- [photonstorm/phaser-ce](https://github.com/photonstorm/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/phaser-ce](https://github.com/phaserjs/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
 ## php 
 
