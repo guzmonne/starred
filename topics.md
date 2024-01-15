@@ -127,6 +127,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -1971,6 +1972,12 @@
 
 - [ndrabins/react-redux-firebase-material-electron-starter](https://github.com/ndrabins/react-redux-firebase-material-electron-starter) - Create-react-app with some awesome technologies to get started building great apps quick
 - [jakubgarfield/expenses](https://github.com/jakubgarfield/expenses) - 💰Expense tracker using Google Sheets 📉 as a storage written in React
+
+## microsoft 
+
+- [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows
 
 ## minecraft 
 
