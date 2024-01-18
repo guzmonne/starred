@@ -1206,7 +1206,7 @@
 - [etherlabsio/healthcheck](https://github.com/etherlabsio/healthcheck) - An simple, easily extensible and concurrent health-check library for Go services
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [go-ffmt/ffmt](https://github.com/go-ffmt/ffmt) - Golang beautify data display for Humans
-- [KubeOperator/webkubectl](https://github.com/KubeOperator/webkubectl) - Run kubectl command in Web Browser.
+- [1Panel-dev/webkubectl](https://github.com/1Panel-dev/webkubectl) - Run kubectl command in Web Browser.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [llgcode/draw2d](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf, svg)
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
@@ -1302,7 +1302,7 @@
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [etherlabsio/healthcheck](https://github.com/etherlabsio/healthcheck) - An simple, easily extensible and concurrent health-check library for Go services
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
-- [KubeOperator/webkubectl](https://github.com/KubeOperator/webkubectl) - Run kubectl command in Web Browser.
+- [1Panel-dev/webkubectl](https://github.com/1Panel-dev/webkubectl) - Run kubectl command in Web Browser.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
@@ -1767,7 +1767,7 @@
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [stephenlacy/kuberhaus](https://github.com/stephenlacy/kuberhaus) - Kubernetes resource dashboard with node/pod layout and resource requests
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
-- [KubeOperator/webkubectl](https://github.com/KubeOperator/webkubectl) - Run kubectl command in Web Browser.
+- [1Panel-dev/webkubectl](https://github.com/1Panel-dev/webkubectl) - Run kubectl command in Web Browser.
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
