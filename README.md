@@ -235,7 +235,7 @@
 - [dimiro1/health](https://github.com/dimiro1/health) - An easy to use, extensible health check library for Go applications.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [go-ffmt/ffmt](https://github.com/go-ffmt/ffmt) - Golang beautify data display for Humans
-- [KubeOperator/webkubectl](https://github.com/KubeOperator/webkubectl) - Run kubectl command in Web Browser.
+- [1Panel-dev/webkubectl](https://github.com/1Panel-dev/webkubectl) - Run kubectl command in Web Browser.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [llgcode/draw2d](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf, svg)
