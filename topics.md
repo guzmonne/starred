@@ -1144,7 +1144,7 @@
 
 ## go 
 
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [akrylysov/algnhsa](https://github.com/akrylysov/algnhsa) - AWS Lambda Go net/http server adapter
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal
@@ -1241,7 +1241,7 @@
 
 ## golang 
 
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal
@@ -2484,7 +2484,6 @@
 - [oclif/cli-ux](https://github.com/oclif/cli-ux) - CLI IO utilities
 - [ArunMichaelDsouza/react-image-appear](https://github.com/ArunMichaelDsouza/react-image-appear) - ReactJS component to make images appear with transition as they load.
 - [mikestaub/serverless-express](https://github.com/mikestaub/serverless-express) - Run your unmodified express app on AWS Lambda via the Serverless framework.
-- [phaserjs/template-webpack](https://github.com/phaserjs/template-webpack) - A Phaser 3 Project Template
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
@@ -2591,6 +2590,7 @@
 - [digitsensitive/phaser3-typescript](https://github.com/digitsensitive/phaser3-typescript) - Phaser 3 and TypeScript
 - [rexrainbow/phaser3-rex-notes](https://github.com/rexrainbow/phaser3-rex-notes) - Notes of phaser3 engine
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/template-webpack](https://github.com/phaserjs/template-webpack) - A Phaser 3 project template that uses Webpack 5 for bundling
 - [Jerenaux/phaserquest](https://github.com/Jerenaux/phaserquest) - Reproduction of Mozilla's BrowserQuest using Phaser, socket.io and Node.js
 - [phaserjs/phaser-ce](https://github.com/phaserjs/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
@@ -3480,6 +3480,7 @@
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [yandeu/phaser-project-template-es6](https://github.com/yandeu/phaser-project-template-es6) - Phaser 3 - Starter Template with ES6 (ESNext features included) and webpack.
 - [wintercounter/mhy](https://github.com/wintercounter/mhy) - 🧩 A zero-config, out-of-the-box, multi-purpose toolbox and development environment
+- [phaserjs/template-webpack](https://github.com/phaserjs/template-webpack) - A Phaser 3 project template that uses Webpack 5 for bundling
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [kriasoft/react-app](https://github.com/kriasoft/react-app) - Create React App with server-side code support
 - [zouhir/jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
