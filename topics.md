@@ -613,7 +613,7 @@
 
 ## code 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 
 ## code-quality 
@@ -2512,7 +2512,7 @@
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [faceyspacey/redux-first-router](https://github.com/faceyspacey/redux-first-router) - 🎖 seamless redux-first routing -- just dispatch actions
 - [rtfeldman/seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [netgfx/Phaser-FloatingText](https://github.com/netgfx/Phaser-FloatingText) - A floating text plugin for Phaser, with many effects to choose from
 - [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
@@ -3146,7 +3146,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 
