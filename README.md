@@ -933,7 +933,7 @@
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
+- [tweedegolf/teach-rs](https://github.com/tweedegolf/teach-rs) - A modular, reusable university course for Rust
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
@@ -1116,7 +1116,7 @@
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
-- [xobserve/xo](https://github.com/xobserve/xo) - Observe any stack, any service and any data at anywhere,  using any UI style you prefer. Apache2.0 forever !
+- [xobserve/xo](https://github.com/xobserve/xo) - Observe any stack, any service and any data at anywhere,  using any UI style you prefer !
 - [wellyshen/react-cool-virtual](https://github.com/wellyshen/react-cool-virtual) - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 - [sensedeep/dynamodb-onetable](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB access and management for one table designs with NodeJS
