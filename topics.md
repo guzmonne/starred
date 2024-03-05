@@ -2359,7 +2359,7 @@
 - [xolox/vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
 - [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
 - [technobomz/bash_colors](https://github.com/technobomz/bash_colors) - The library defines verbal constants and functions for terminal colors.
-- [mmkal/slonik-tools](https://github.com/mmkal/slonik-tools) - Various utilities for slonik
+- [mmkal/slonik-tools](https://github.com/mmkal/slonik-tools) - PostgreSQL🤝TypeScript monorepo. SQL client/admin UI/smart migrator/type generator/schema inspector
 - [yurikhan/kitty_grab](https://github.com/yurikhan/kitty_grab) - Keyboard-driven screen grabber for Kitty
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [knubie/vim-kitty-navigator](https://github.com/knubie/vim-kitty-navigator) - Seamless navigation between kitty panes and vim splits
