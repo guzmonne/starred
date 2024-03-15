@@ -426,7 +426,7 @@
 - [alewin/useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks
 - [krasimir/octolife](https://github.com/krasimir/octolife) - Small project that shows your life in GitHub
 - [WilianZilv/reactron](https://github.com/WilianZilv/reactron) - A tiny Electron + React boilerplate
-- [significa/react-snuggle](https://github.com/significa/react-snuggle) - An intimate and comfortable way to layout your components
+- [significa/react-snuggle](https://github.com/significa/react-snuggle) - An intimate and comfortable way to layout your components. (NOT MAINTAINED)
 - [datasweet/kibana-datasweet-formula](https://github.com/datasweet/kibana-datasweet-formula) - This Kibana plugin allows calculated metrics on any standard kibana visualizations.
 - [dlumbrer/kbn_network](https://github.com/dlumbrer/kbn_network) - Network Plugin for Kibana
 - [aaronoah/kibana_calendar_vis](https://github.com/aaronoah/kibana_calendar_vis) - Calendar heatmap visualization Kibana plugin
