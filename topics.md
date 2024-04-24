@@ -66,6 +66,7 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
+- [embedded](#embedded)
 - [ember](#ember)
 - [emoji](#emoji)
 - [es6](#es6)
@@ -397,7 +398,7 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [akrylysov/algnhsa](https://github.com/akrylysov/algnhsa) - AWS Lambda Go net/http server adapter
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
-- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, 
+- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, 
 - [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) - Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, 
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -435,7 +436,7 @@
 
 ## azure 
 
-- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, 
+- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -842,7 +843,7 @@
 
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
-- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, 
+- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, 
 - [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) - Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, 
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [vasdee/git-tag-flow](https://github.com/vasdee/git-tag-flow) - An alternative GIT workflow strategy, inspired by the best parts of git-flow, trunk based development and GitOps
@@ -874,7 +875,7 @@
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, 
+- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, 
 - [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) - Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, 
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
@@ -960,6 +961,11 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
+
+## embedded 
+
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+- [krotik/eliasdb](https://github.com/krotik/eliasdb) - EliasDB a graph-based database.
 
 ## ember 
 
@@ -1379,7 +1385,7 @@
 - [tektoncd/cli](https://github.com/tektoncd/cli) - A CLI for interacting with Tekton!
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, 
+- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, 
 - [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) - Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, 
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
@@ -1745,7 +1751,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
-- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, 
+- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, 
 - [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) - Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, 
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
