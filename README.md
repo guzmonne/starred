@@ -159,7 +159,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
-- [hotaruswarm/dagu](https://github.com/hotaruswarm/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [micro/services](https://github.com/micro/services) - Real World Micro Services
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -908,6 +908,7 @@
 
 ## Rust 
 
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat & Copilot that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen...
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
