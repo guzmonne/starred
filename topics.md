@@ -514,7 +514,7 @@
 
 ## chatgpt 
 
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat & Copilot that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek...
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
