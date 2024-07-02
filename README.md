@@ -455,7 +455,7 @@
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
+- [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
 - [ziishaned/dumper.js](https://github.com/ziishaned/dumper.js) - A better and pretty variable inspector for your Node.js applications
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
