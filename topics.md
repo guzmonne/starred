@@ -1608,7 +1608,7 @@
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [sgwilym/windups](https://github.com/sgwilym/windups) - A unique typewriter effect library for React.
@@ -1925,7 +1925,7 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
-- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Escape from insert mode without delay when typing
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
@@ -2129,7 +2129,7 @@
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
-- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Escape from insert mode without delay when typing
@@ -2303,6 +2303,7 @@
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
@@ -2393,7 +2394,7 @@
 - [xolox/vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
 - [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
 - [mercuriev/bash-colors](https://github.com/mercuriev/bash-colors) - The library defines verbal constants and functions for terminal colors.
-- [mmkal/slonik-tools](https://github.com/mmkal/slonik-tools) - PostgreSQL🤝TypeScript monorepo. SQL client/admin UI/smart migrator/type generator/schema inspector
+- [mmkal/pgkit](https://github.com/mmkal/pgkit) - PostgreSQL🤝TypeScript monorepo. SQL client/admin UI/smart migrator/type generator/schema inspector
 - [yurikhan/kitty_grab](https://github.com/yurikhan/kitty_grab) - Keyboard-driven screen grabber for Kitty
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [knubie/vim-kitty-navigator](https://github.com/knubie/vim-kitty-navigator) - Seamless navigation between kitty panes and vim splits
@@ -2832,7 +2833,7 @@
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
 - [wellyshen/react-cool-virtual](https://github.com/wellyshen/react-cool-virtual) - 😎 ♻️ A tiny React hook for rendering large datasets like a breeze.
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) - My personal website
 - [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 - [steveruizok/state-designer](https://github.com/steveruizok/state-designer) - State management with statecharts.
