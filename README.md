@@ -834,7 +834,7 @@
 - [devrim/cloudflare-noip](https://github.com/devrim/cloudflare-noip) - free alternative to paid dynamic DNS services like NoIP.com
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - OG CLI codegen project. Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
@@ -916,7 +916,7 @@
 
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [sigoden/aichat](https://github.com/sigoden/aichat) - AIChat is an all-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, Function Calling, AI Agents, and More.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
@@ -1011,7 +1011,7 @@
 - [FreeRADIUS/freeradius-client](https://github.com/FreeRADIUS/freeradius-client) - A BSD licenced RADIUS client library
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [ali5ter/ansi-color](https://github.com/ali5ter/ansi-color) - 🎨 Bash ANSI color script migrated from https://code.google.com/p/ansi-color/
-- [mercuriev/bash-colors](https://github.com/mercuriev/bash-colors) - The library defines verbal constants and functions for terminal colors.
+- [loeul/bash-colors](https://github.com/loeul/bash-colors) - The library defines verbal constants and functions for terminal colors.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
 - [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
