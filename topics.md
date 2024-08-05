@@ -1167,6 +1167,7 @@
 
 ## go 
 
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
@@ -1266,6 +1267,7 @@
 
 ## golang 
 
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [cyclops-ui/cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
@@ -3282,6 +3284,7 @@
 
 ## terminal 
 
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
