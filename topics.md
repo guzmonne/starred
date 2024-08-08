@@ -445,7 +445,7 @@
 
 ## babel 
 
-- [haikelfazzani/vconsole](https://github.com/haikelfazzani/vconsole) - 👋 ⚛️ Online Modern and Advanced Javascript  console (support: typescript, livescript, babel, coffeescript)
+- [haikelfazzani/vconsole](https://github.com/haikelfazzani/vconsole) - 👋 ⚛️ Online Modern Web Editor (support: typescript, React)
 - [wintercounter/mhy](https://github.com/wintercounter/mhy) - 🧩 A zero-config, out-of-the-box, multi-purpose toolbox and development environment
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [diegohaz/nod](https://github.com/diegohaz/nod) - Node.js module generator/boilerplate with Babel, Jest, Flow, Documentation and more
@@ -1630,7 +1630,7 @@
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [haikelfazzani/vconsole](https://github.com/haikelfazzani/vconsole) - 👋 ⚛️ Online Modern and Advanced Javascript  console (support: typescript, livescript, babel, coffeescript)
+- [haikelfazzani/vconsole](https://github.com/haikelfazzani/vconsole) - 👋 ⚛️ Online Modern Web Editor (support: typescript, React)
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
@@ -2725,7 +2725,7 @@
 
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [haikelfazzani/vconsole](https://github.com/haikelfazzani/vconsole) - 👋 ⚛️ Online Modern and Advanced Javascript  console (support: typescript, livescript, babel, coffeescript)
+- [haikelfazzani/vconsole](https://github.com/haikelfazzani/vconsole) - 👋 ⚛️ Online Modern Web Editor (support: typescript, React)
 - [yandeu/phaser-project-template-es6](https://github.com/yandeu/phaser-project-template-es6) - Phaser 3 - Starter Template with ES6 (ESNext features included) and webpack.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
@@ -3409,7 +3409,7 @@
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/
 - [scniro/react-codemirror2](https://github.com/scniro/react-codemirror2) - Codemirror integrated components for React
-- [haikelfazzani/vconsole](https://github.com/haikelfazzani/vconsole) - 👋 ⚛️ Online Modern and Advanced Javascript  console (support: typescript, livescript, babel, coffeescript)
+- [haikelfazzani/vconsole](https://github.com/haikelfazzani/vconsole) - 👋 ⚛️ Online Modern Web Editor (support: typescript, React)
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
