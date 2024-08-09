@@ -1907,6 +1907,7 @@
 
 ## lua 
 
+- [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) - A simple AsciiDoc preview while editing AsciiDoc documents in Neovim
 - [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)
 - [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter based structural search and replace plugin for Neovim.
@@ -2095,6 +2096,7 @@
 
 ## neovim 
 
+- [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) - A simple AsciiDoc preview while editing AsciiDoc documents in Neovim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)
 - [luk400/vim-jukit](https://github.com/luk400/vim-jukit) - Jupyter-Notebook inspired Neovim/Vim Plugin
@@ -2336,6 +2338,7 @@
 
 ## others 
 
+- [habamax/vim-asciidoctor](https://github.com/habamax/vim-asciidoctor) - Asciidoctor plugin for Vim
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [devrim/cloudflare-noip](https://github.com/devrim/cloudflare-noip) - free alternative to paid dynamic DNS services like NoIP.com
 - [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use in LLMs
