@@ -576,6 +576,7 @@
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [nitin42/animate-components](https://github.com/nitin42/animate-components) - ✨ Elemental components for doing animations in React
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [faisalman/simple-excel-js](https://github.com/faisalman/simple-excel-js) - SimpleExcel.js - WIP client-side script to parse / convert / write XML / CSV / TSV / HTML / JSON / etc formats.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
@@ -1231,7 +1232,6 @@
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [kevinjhanna/input-autocomplete](https://github.com/kevinjhanna/input-autocomplete) - Tiny react input component with autocomplete.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
-- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [kofrasa/mingo](https://github.com/kofrasa/mingo) - MongoDB query language for in-memory objects
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
