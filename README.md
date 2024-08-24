@@ -132,7 +132,7 @@
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Platform for building distributed systems with automated infrastructure.
+- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
@@ -648,6 +648,7 @@
 
 ## Lua 
 
+- [yacineMTB/dingllm.nvim](https://github.com/yacineMTB/dingllm.nvim) - Yacine's LLM nvim scripts
 - [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) - A simple AsciiDoc preview while editing AsciiDoc documents in Neovim
 - [miversen33/sunglasses.nvim](https://github.com/miversen33/sunglasses.nvim) - Put on your shades so you only see what you care about
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
