@@ -2407,6 +2407,7 @@
 
 ## others 
 
+- [hytopiagg/cef-ui](https://github.com/hytopiagg/cef-ui) - This repository contains a bridge between Rust and the Chromium Embedded Framework.
 - [Banh-Canh/ytui](https://github.com/Banh-Canh/ytui) - ytui is a TUI tool that allows users to query videos on youtube and play them in their local player.
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
 - [aws-samples/claude-prompt-generator](https://github.com/aws-samples/claude-prompt-generator) - 
