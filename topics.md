@@ -878,7 +878,7 @@
 - [vasdee/git-tag-flow](https://github.com/vasdee/git-tag-flow) - An alternative GIT workflow strategy, inspired by the best parts of git-flow, trunk based development and GitOps
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [vladimirvivien/gexe](https://github.com/vladimirvivien/gexe) - Script-like OS interaction wrapped in the security and type safety of the Go programming language
@@ -1474,6 +1474,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
@@ -2099,7 +2100,7 @@
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [e-oj/Fawn](https://github.com/e-oj/Fawn) - Transactions for MongoDB (See the README)
@@ -2141,7 +2142,7 @@
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
@@ -2531,7 +2532,6 @@
 - [DCurrent/openbor](https://github.com/DCurrent/openbor) - OpenBOR is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more!
 - [tldraw/intersect](https://github.com/tldraw/intersect) - 2D intersection utilities for TLDraw and maybe you, too.
 - [gregnb/mui-datatables](https://github.com/gregnb/mui-datatables) - Datatables for React using Material-UI
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [linkedin/dustjs](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [ahmetb/multi-process-container-lazy-solution](https://github.com/ahmetb/multi-process-container-lazy-solution) - Sample code accompanying the blog post:
@@ -2756,7 +2756,7 @@
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
@@ -3312,7 +3312,7 @@
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -3419,7 +3419,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
