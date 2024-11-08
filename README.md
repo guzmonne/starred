@@ -917,7 +917,6 @@
 ## Rust 
 
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
-- [hytopiagg/cef-ui](https://github.com/hytopiagg/cef-ui) - This repository contains a bridge between Rust and the Chromium Embedded Framework.
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
