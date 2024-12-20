@@ -2139,7 +2139,7 @@
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
@@ -2446,7 +2446,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [jschaf/pggen](https://github.com/jschaf/pggen) - Generate type-safe Go for any Postgres query. If Postgres can run the query, pggen can generate code for it.
 - [awslabs/visual-asset-management-system](https://github.com/awslabs/visual-asset-management-system) - Visual Asset Management System (VAMS) is a purpose-built, AWS native solution for the management and distribution of specialized visual assets used in spatial computing.
-- [clever-algorithms/CleverAlgorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
+- [Jason2Brownlee/CleverAlgorithms](https://github.com/Jason2Brownlee/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
 - [ibhagwan/smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim) - 
 - [crodjer/watchman](https://github.com/crodjer/watchman) - Execute a command when something changes
 - [weiweihuanghuang/fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font
@@ -2752,7 +2752,7 @@
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [plv8/plv8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
@@ -3193,7 +3193,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
