@@ -53,7 +53,7 @@
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [raysan5/raylib-games](https://github.com/raysan5/raylib-games) - A collection of games made with raylib
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
+- [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
@@ -647,7 +647,7 @@
 ## Lua 
 
 - [yacineMTB/dingllm.nvim](https://github.com/yacineMTB/dingllm.nvim) - Yacine's LLM nvim scripts
-- [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) - A simple AsciiDoc preview while editing AsciiDoc documents in Neovim
+- [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) - A Neovim plugin to preview AsciiDoc documents in the browser.
 - [miversen33/sunglasses.nvim](https://github.com/miversen33/sunglasses.nvim) - Put on your shades so you only see what you care about
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
