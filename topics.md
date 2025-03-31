@@ -2432,7 +2432,7 @@
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 - [srush/llama2.rs](https://github.com/srush/llama2.rs) - A fast llama2 decoder in pure Rust.
-- [supabase-community/postgres_lsp](https://github.com/supabase-community/postgres_lsp) - A Language Server for Postgres
+- [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
 - [AlyHKafoury/Operator-rs](https://github.com/AlyHKafoury/Operator-rs) - a Kubernetes Operator written in Rust
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
