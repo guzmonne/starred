@@ -988,7 +988,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## electron 
 
@@ -1529,7 +1529,7 @@
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [petehouston/react-ui-framework](https://github.com/petehouston/react-ui-framework) - My personal collection of React UI Framework.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
 ## haskell 
@@ -1755,7 +1755,7 @@
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [igorprado/react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [angular-ui/ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
@@ -2354,7 +2354,7 @@
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
@@ -2496,7 +2496,7 @@
 - [remix-run/indie-stack](https://github.com/remix-run/indie-stack) - The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
 - [xolox/vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
 - [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
-- [mercuriev/bash-colors](https://github.com/mercuriev/bash-colors) - The library defines verbal constants and functions for terminal colors.
+- [dappvibe/bash-colors](https://github.com/dappvibe/bash-colors) - The library defines verbal constants and functions for terminal colors.
 - [mmkal/pgkit](https://github.com/mmkal/pgkit) - PostgreSQL🤝TypeScript monorepo. SQL client/admin UI/smart migrator/type generator/schema inspector
 - [yurikhan/kitty_grab](https://github.com/yurikhan/kitty_grab) - Keyboard-driven screen grabber for Kitty
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
@@ -2593,7 +2593,6 @@
 - [datasweet/kibana-datasweet-formula](https://github.com/datasweet/kibana-datasweet-formula) - This Kibana plugin allows calculated metrics on any standard kibana visualizations.
 - [nreese/kibana-time-plugin](https://github.com/nreese/kibana-time-plugin) - Kibana visualization that provides controls for setting and animating time ranges.
 - [aaronoah/kibana_calendar_vis](https://github.com/aaronoah/kibana_calendar_vis) - Calendar heatmap visualization Kibana plugin
-- [bytemine/mattersip](https://github.com/bytemine/mattersip) - 
 - [versatica/JsSIP](https://github.com/versatica/JsSIP) - JsSIP, the JavaScript SIP library
 - [kube-aws/kube-spot-termination-notice-handler](https://github.com/kube-aws/kube-spot-termination-notice-handler) - A Kubernetes DaemonSet to gracefully delete pods 2 minutes before an EC2 Spot Instance gets terminated
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
@@ -2804,7 +2803,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [zero-equals-false/awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Secur
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## project-management 
 
@@ -2961,7 +2960,7 @@
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [Cogoport/cogo-toast](https://github.com/Cogoport/cogo-toast) - Beautiful, Zero Configuration, Toast Messages for React. Only ~ 4kb gzip, with styles and icons
 - [strapi/buffet](https://github.com/strapi/buffet) - Buffet.js — React Components Library made with styled-components
@@ -3039,7 +3038,7 @@
 - [team-gryff/react-monocle](https://github.com/team-gryff/react-monocle) - A developer tool to visualize a React application's component hierarchy.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [diegoddox/react-redux-toastr](https://github.com/diegoddox/react-redux-toastr) - react-redux-toastr is a toastr message implemented with Redux
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
@@ -3073,7 +3072,7 @@
 - [whawker/react-jsx-highcharts](https://github.com/whawker/react-jsx-highcharts) - Highcharts built with proper React components
 - [atomiks/tippyjs-react](https://github.com/atomiks/tippyjs-react) - React component for Tippy.js (official)
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) - A set of React components for the PatternFly project.
 - [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
