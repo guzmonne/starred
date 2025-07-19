@@ -363,7 +363,7 @@
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [vasanthv/hello](https://github.com/vasanthv/hello) - Free group video call for the web. No signups. No downloads.
+- [vasanthv/ahey](https://github.com/vasanthv/ahey) - Free group video call for the web. No signups. No downloads.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [nitrictech/node-sdk](https://github.com/nitrictech/node-sdk) - Node SDK for Nitric
