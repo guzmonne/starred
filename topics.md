@@ -243,6 +243,7 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -351,7 +352,7 @@
 
 ## automation 
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - dagu is an easy-to-use, flexible, and simple workflow engine that can manage a mix of batch, containerized, and non-containerized workflows. dagu is local-first and easy to operate on any system witho
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a simple, flexible, and powerful workflow engine built for enterprise and small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find large-scale, 
 - [b1f6c1c4/draw.io-export](https://github.com/b1f6c1c4/draw.io-export) - Convert draw.io xml to pdf/png within command line. (diagrams.net)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
@@ -1373,7 +1374,7 @@
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - dagu is an easy-to-use, flexible, and simple workflow engine that can manage a mix of batch, containerized, and non-containerized workflows. dagu is local-first and easy to operate on any system witho
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a simple, flexible, and powerful workflow engine built for enterprise and small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find large-scale, 
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -3802,6 +3803,16 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
+
+## zsh 
+
+- [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 
 
 ## License
