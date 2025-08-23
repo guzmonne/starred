@@ -52,7 +52,7 @@
 - [golang-ui/nuklear](https://github.com/golang-ui/nuklear) - This project provides Go bindings for nuklear.h — a small ANSI C GUI library.
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
-- [raysan5/raylib-games](https://github.com/raysan5/raylib-games) - A collection of games made with raylib
+- [raysan5/raylib-games](https://github.com/raysan5/raylib-games) - A collection of small sample games made with raylib
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
@@ -61,6 +61,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [DCurrent/openbor](https://github.com/DCurrent/openbor) - OpenBOR is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more!
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -165,7 +166,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight, versatile workflow engine for "small teams". It allows you to schedule the execution of DAGs with Cron expressions, and natively support running containers, executing commands over SSH.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight, versatile workflow engine for small teams. It allows you to schedule the execution of DAGs with Cron expressions, and natively support running containers, executing commands over SSH.
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
@@ -255,11 +256,10 @@
 - [hidetatz/kubecolor](https://github.com/hidetatz/kubecolor) - colorizes kubectl output
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [kkdai/youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
-- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser
+- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise Go runtime metrics in real time
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [betty200744/ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems.
@@ -363,6 +363,7 @@
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -949,7 +950,6 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
