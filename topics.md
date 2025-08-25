@@ -353,7 +353,7 @@
 
 ## automation 
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight, versatile workflow engine for small teams. It allows you to schedule the execution of DAGs with Cron expressions, and natively support running containers, executing commands over SSH.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A versatile workflow orchestration tool for scheduling tasks, running containers, and remote execution. Single binary with Web UI. It can create complex workflows and run arbitrary commands or scripts
 - [b1f6c1c4/draw.io-export](https://github.com/b1f6c1c4/draw.io-export) - Convert draw.io xml to pdf/png within command line. (diagrams.net)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
@@ -1377,7 +1377,7 @@
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight, versatile workflow engine for small teams. It allows you to schedule the execution of DAGs with Cron expressions, and natively support running containers, executing commands over SSH.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A versatile workflow orchestration tool for scheduling tasks, running containers, and remote execution. Single binary with Web UI. It can create complex workflows and run arbitrary commands or scripts
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -3353,7 +3353,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [ali5ter/ansi-color](https://github.com/ali5ter/ansi-color) - 🎨 Bash ANSI color script migrated from https://code.google.com/p/ansi-color/
+- [ali5ter/ansi-color](https://github.com/ali5ter/ansi-color) - 🎨 Bash ANSI color script
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
