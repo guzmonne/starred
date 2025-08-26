@@ -166,7 +166,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A versatile workflow orchestration tool for scheduling tasks, running containers, and remote execution. Single binary with Web UI. It can create complex workflows and run arbitrary commands or scripts
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow orchestration engine with single binary & Web UI. It can run arbitrary workflows defined in a simple YAML format. It can run scripts, containers, and remote commands via SSH.
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
@@ -1140,7 +1140,7 @@
 - [prisma-labs/konn](https://github.com/prisma-labs/konn) - 
 - [JakePartusch/serverlessui](https://github.com/JakePartusch/serverlessui) - A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Collection of awesome react hooks
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
