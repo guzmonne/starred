@@ -2511,7 +2511,7 @@
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [sylvainpolletvillard/spell](https://github.com/sylvainpolletvillard/spell) - a fork of pell, the simplest and smallest WYSIWYG text editor for web
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
-- [threedle/ll3m](https://github.com/threedle/ll3m) - 
+- [threedle/ll3m](https://github.com/threedle/ll3m) - LL3M writes Python code that generates 3D assets in Blender.
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
 - [Banh-Canh/ytui](https://github.com/Banh-Canh/ytui) - ytui is a TUI tool that allows users to query videos on youtube and play them in their local player.
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
