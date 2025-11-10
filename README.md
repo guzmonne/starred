@@ -377,7 +377,6 @@
 - [workeffortwaste/gsap-video-export](https://github.com/workeffortwaste/gsap-video-export) - Expertly and easily export GreenSock (GSAP) animation to video.
 - [ameerthehacker/kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive :fire:
 - [catalinmiron/react-typical](https://github.com/catalinmiron/react-typical) - React typing animation in ~400 bytes 🐡 of JavaScript.
-- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [NadavShaar/react-grid-table](https://github.com/NadavShaar/react-grid-table) - A modular table, based on a CSS grid layout, optimized for customization.
 - [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
@@ -1110,6 +1109,7 @@
 - [uiwjs/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) - A simple code editor with syntax highlighting.
 - [milesj/interweave](https://github.com/milesj/interweave) - 🌀 React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
+- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [suchipi/pheno](https://github.com/suchipi/pheno) - Simple, lightweight at-runtime type checking functions, with full TypeScript support
 - [jjenzz/remix-stitches](https://github.com/jjenzz/remix-stitches) - 
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
