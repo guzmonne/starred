@@ -252,7 +252,7 @@
 
 ## 3d 
 
-- [awslabs/visual-asset-management-system](https://github.com/awslabs/visual-asset-management-system) - Visual Asset Management System (VAMS) is a purpose-built, AWS native solution for the management and distribution of traditional to specialized visual assets used in spatial computing.
+- [awslabs/visual-asset-management-system](https://github.com/awslabs/visual-asset-management-system) - Visual Asset Management System (VAMS) is a purpose-built, AWS native solution for the management and distribution of traditional to specialized visual assets used in physical AI and spatial computing.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 
