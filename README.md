@@ -146,7 +146,7 @@
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [basp1/rlyeh](https://github.com/basp1/rlyeh) - rlyeh is simple and easy-to-use GUI API library for raylib-go
-- [yottahmd/donburi](https://github.com/yottahmd/donburi) - Just another ECS library for Go/Ebitengine
+- [yottahmd/donburi-ecs](https://github.com/yottahmd/donburi-ecs) - Just another ECS library for Go/Ebitengine
 - [lafriks/go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image
 - [m110/airplanes](https://github.com/m110/airplanes) - A 2D shoot 'em up game made with Go, Ebitengine, and donburi. Featuring ECS (Entity Component System).
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
