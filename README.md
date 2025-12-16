@@ -162,7 +162,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, lightweight workflow engine for enterprise and small teams. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing comm
