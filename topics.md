@@ -146,6 +146,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -2224,6 +2225,21 @@
 
 - [ndrabins/react-redux-firebase-material-electron-starter](https://github.com/ndrabins/react-redux-firebase-material-electron-starter) - Create-react-app with some awesome technologies to get started building great apps quick
 - [jakubgarfield/expenses](https://github.com/jakubgarfield/expenses) - 💰Expense tracker using Google Sheets 📉 as a storage written in React
+
+## microservices 
+
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
+- [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
+- [vasdee/git-tag-flow](https://github.com/vasdee/git-tag-flow) - An alternative GIT workflow strategy, inspired by the best parts of git-flow, trunk based development and GitOps
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
+- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [redhat-scholars/istio-tutorial](https://github.com/redhat-scholars/istio-tutorial) - Istio Tutorial for https://dn.dev/master
+- [dashersw/cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
 
 ## microsoft 
 
