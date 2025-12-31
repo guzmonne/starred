@@ -2832,7 +2832,7 @@
 - [kofrasa/mingo](https://github.com/kofrasa/mingo) - MongoDB query language for in-memory objects
 - [electron-userland/electron-compile](https://github.com/electron-userland/electron-compile) - DEPRECATED: Electron supporting package to compile JS and CSS in Electron applications
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
-- [dabanlee/blurify](https://github.com/dabanlee/blurify) - blurify.js is a tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode.
+- [hey-lee/blurify](https://github.com/hey-lee/blurify) - blurify.js is a tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode.
 - [zackargyle/service-workers](https://github.com/zackargyle/service-workers) - A collection of utilities for creating/testing/experimenting with service workers.
 - [0oVicero0/OneDrive](https://github.com/0oVicero0/OneDrive) - [Linux] OneDrive for Business
 - [FormidableLabs/ecology](https://github.com/FormidableLabs/ecology) - Documentation generator for collections of react components.
