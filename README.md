@@ -1254,7 +1254,7 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [kofrasa/mingo](https://github.com/kofrasa/mingo) - MongoDB query language for in-memory objects
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
-- [dabanlee/blurify](https://github.com/dabanlee/blurify) - blurify.js is a tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode.
+- [hey-lee/blurify](https://github.com/hey-lee/blurify) - blurify.js is a tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode.
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
