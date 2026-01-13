@@ -239,6 +239,7 @@
 - [ui-design](#ui-design)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
+- [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
@@ -2664,7 +2665,6 @@
 - [yurikhan/kitty_grab](https://github.com/yurikhan/kitty_grab) - Keyboard-driven screen grabber for Kitty
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [knubie/vim-kitty-navigator](https://github.com/knubie/vim-kitty-navigator) - Seamless navigation between kitty panes and vim splits
-- [workeffortwaste/gsap-video-export](https://github.com/workeffortwaste/gsap-video-export) - Expertly and easily export GreenSock (GSAP) animation to video.
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [suchipi/pheno](https://github.com/suchipi/pheno) - Simple, lightweight at-runtime type checking functions, with full TypeScript support
@@ -2676,7 +2676,6 @@
 - [codecks-io/react-sticky-box](https://github.com/codecks-io/react-sticky-box) - Sticky boxes for contents of all sizes
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [asmvik/skhd](https://github.com/asmvik/skhd) - Simple hotkey daemon for macOS
 - [mudler/golauncher](https://github.com/mudler/golauncher) - :rocket: Highly extensible, customizable application launcher and window switcher written in less than 300 lines of Golang and fyne
@@ -3324,7 +3323,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [zurawiki/tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - Ready-made tokenizer library for working with GPT and tiktoken
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -3782,6 +3781,17 @@
 ## unreal-engine 
 
 - [pamirtuna/gamestudio-subagents](https://github.com/pamirtuna/gamestudio-subagents) - AI-Powered Game Development Team in Your Terminal
+
+## video 
+
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [workeffortwaste/gsap-video-export](https://github.com/workeffortwaste/gsap-video-export) - Expertly and easily export GreenSock (GSAP) animation to video.
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
+- [tungs/timecut](https://github.com/tungs/timecut) - Node.js program to record smooth movies of web pages with JavaScript animations
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [bbc/VideoContext](https://github.com/bbc/VideoContext) - An experimental HTML5 & WebGL video composition and rendering API.
+- [andrew--r/channels](https://github.com/andrew--r/channels) - 📺 A collection of useful YouTube channels for javascript developers and web designers
 
 ## vim 
 
