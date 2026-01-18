@@ -27,6 +27,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
+- [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PLpgSQL](#plpgsql)
@@ -366,7 +367,6 @@
 - [open-duelyst/duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [vasanthv/hello](https://github.com/vasanthv/hello) - Free group video call for the web. No signups. No downloads.
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [nitrictech/node-sdk](https://github.com/nitrictech/node-sdk) - Node SDK for Nitric
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -732,6 +732,10 @@
 ## Mojo 
 
 - [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
+
+## Nunjucks 
+
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 
 ## Objective-C 
 
