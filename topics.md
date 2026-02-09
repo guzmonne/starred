@@ -1598,7 +1598,6 @@
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 - [craigmulligan/js-fire](https://github.com/craigmulligan/js-fire) - A javascript clone of google/python-fire 🔥
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [Eun/go-hit](https://github.com/Eun/go-hit) - http integration test framework
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
