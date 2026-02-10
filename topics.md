@@ -2791,7 +2791,7 @@
 - [thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of resources for learning about http://www.keycloak.org
 - [ipspace/NetOpsWorkshop](https://github.com/ipspace/NetOpsWorkshop) - Test cases and scenarios for Network Automation workshop
 - [davidguttman/authentic](https://github.com/davidguttman/authentic) - Authentication for microservices.
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An JWT based API for managing users and issuing JWT tokens.
 - [ChrisCavs/t-writer.js](https://github.com/ChrisCavs/t-writer.js) - Native typewriter effect, without compromises or dependencies.
 - [madhavanmalolan/awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
 - [oclif/cli-ux](https://github.com/oclif/cli-ux) - CLI IO utilities
