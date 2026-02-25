@@ -198,7 +198,7 @@
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+- [casbin/casbin](https://github.com/casbin/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [mudler/golauncher](https://github.com/mudler/golauncher) - :rocket: Highly extensible, customizable application launcher and window switcher written in less than 300 lines of Golang and fyne
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -870,7 +870,6 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [apryor6/flaskerize](https://github.com/apryor6/flaskerize) - Python CLI build/dev tool for templated code generation and project modification. Think Angular schematics for Python.
-- [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com) - Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy supp
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [apryor6/flask_accepts](https://github.com/apryor6/flask_accepts) - Easy, opinionated Flask input/output handling mixing Marshmallow with flask-restx
 - [skylines-project/skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
@@ -1034,7 +1033,6 @@
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [lrakai/aws-spot-instance-ebs-persistence](https://github.com/lrakai/aws-spot-instance-ebs-persistence) - Shell scripts to demonstrate using EBS volumes for spot instance fault tolerance
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- [PGBlitz/Apps-Community](https://github.com/PGBlitz/Apps-Community) - Visit the PG Repos @ https://github.com/PGBlitz  - Apps Community (Community Focused)
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [kube-aws/kube-spot-termination-notice-handler](https://github.com/kube-aws/kube-spot-termination-notice-handler) - A Kubernetes DaemonSet to gracefully delete pods 2 minutes before an EC2 Spot Instance gets terminated
