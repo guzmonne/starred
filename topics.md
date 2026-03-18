@@ -2693,7 +2693,7 @@
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [asmvik/skhd](https://github.com/asmvik/skhd) - Simple hotkey daemon for macOS
 - [mudler/golauncher](https://github.com/mudler/golauncher) - :rocket: Highly extensible, customizable application launcher and window switcher written in less than 300 lines of Golang and fyne
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) - Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
 - [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
 - [segmentio/testdemo](https://github.com/segmentio/testdemo) - Examples for https://segment.com/blog/5-advanced-testing-techniques-in-go/
