@@ -192,7 +192,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -917,7 +917,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
@@ -1140,7 +1140,7 @@
 - [prisma-labs/konn](https://github.com/prisma-labs/konn) - 
 - [JakePartusch/serverlessui](https://github.com/JakePartusch/serverlessui) - A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 600k monthly downloads. Collection of awesome react hooks
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
@@ -1234,7 +1234,7 @@
 - [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
 - [jquense/react-widgets](https://github.com/jquense/react-widgets) - Polished, feature rich, accessible form inputs built with React
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
