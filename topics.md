@@ -85,6 +85,7 @@
 - [emoji](#emoji)
 - [es6](#es6)
 - [eslint](#eslint)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
 - [fastapi](#fastapi)
@@ -1189,6 +1190,10 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [bartonhammond/snowflake](https://github.com/bartonhammond/snowflake) - :snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router,  & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Par
 
+## esp32 
+
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+
 ## ethereum 
 
 - [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
@@ -2217,6 +2222,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [pojala/termipal](https://github.com/pojala/termipal) - Instant, native micro-GUIs for shell scripts and command line apps
