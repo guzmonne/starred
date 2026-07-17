@@ -136,7 +136,7 @@
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 and 3.1 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 and 3.1 and 3.2 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
@@ -910,7 +910,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player.
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [guilhermeprokisch/see](https://github.com/guilhermeprokisch/see) - A cute cat(1) for the terminal with advanced code viewing, Markdown rendering, 🌳  tree-sitter syntax highlighting, images view and more.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
