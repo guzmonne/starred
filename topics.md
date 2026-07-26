@@ -1164,7 +1164,7 @@
 
 ## elixir 
 
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
@@ -2507,7 +2507,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [craigmulligan/js-fire](https://github.com/craigmulligan/js-fire) - A javascript clone of google/python-fire 🔥
@@ -2955,7 +2955,7 @@
 
 ## php 
 
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 
 ## pixel-art 
@@ -3055,7 +3055,7 @@
 - [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [jaredtrog/cfplot](https://github.com/jaredtrog/cfplot) - A simple tool to generate waterfall graphs of CloudFormation Templates
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -3405,6 +3405,7 @@
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - Async-friendly WebRTC implementation in Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [wena-cli/wena](https://github.com/wena-cli/wena) - Wena is a micro-framework that provides an elegant starting point for your console application.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
@@ -3733,7 +3734,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [nitrictech/node-sdk](https://github.com/nitrictech/node-sdk) - Node SDK for Nitric
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🚀 Glide Data Grid is a no compromise, outrageously fast react data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [eruptionjs/core](https://github.com/eruptionjs/core) - Boilerplate for React/Typescript, built on top of Vite ⚡️
