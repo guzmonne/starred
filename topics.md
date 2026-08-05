@@ -795,6 +795,7 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -2855,7 +2856,6 @@
 - [eropple/taskbotjs](https://github.com/eropple/taskbotjs) - My favorite JS/TS job processing framework. Maybe yours too? [ARCHIVED]
 - [uber/react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [toddwschneider/stocks](https://github.com/toddwschneider/stocks) - A free, lightweight, blazing-fast static page to get stock quotes using IEX Cloud
-- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [awslabs/dynamodb-data-mapper-js](https://github.com/awslabs/dynamodb-data-mapper-js) - A schema-based data mapper for Amazon DynamoDB.
 - [swyxio/awesome-dev-podcasts](https://github.com/swyxio/awesome-dev-podcasts) - a curated list of awesome dev podcasts and why they are awesome
 - [qwigo/warrant](https://github.com/qwigo/warrant) - Python library for using AWS Cognito. With support for SRP.
