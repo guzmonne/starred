@@ -357,7 +357,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
-- [angular-ui/ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid
+- [orneryd/ui-grid](https://github.com/orneryd/ui-grid) - UI Grid: a Data Grid
 
 ## ansible 
 
@@ -1931,7 +1931,7 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [angular-ui/ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid
+- [orneryd/ui-grid](https://github.com/orneryd/ui-grid) - UI Grid: a Data Grid
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [jpillora/notifyjs](https://github.com/jpillora/notifyjs) - Notify.js - A simple, versatile notification library
