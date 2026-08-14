@@ -613,7 +613,6 @@
 - [HenrikJoreteg/hjs-webpack](https://github.com/HenrikJoreteg/hjs-webpack) - Helpers/presets for setting up webpack with hotloading react and ES6(2015) using Babel.
 - [CiscoDevNet/flare](https://github.com/CiscoDevNet/flare) - This project has been deprecated and the repository will no longer be updated. Flare allows users with mobile devices to discover and interact with things in an environment. It combines multiple locat
 - [mattallty/muguet](https://github.com/mattallty/muguet) - DNS Server & Reverse proxy for Docker - Compatible with docker-compose, boot2docker and docker-machine
-- [angular-ui/ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [payner35/generator-meteor-react](https://github.com/payner35/generator-meteor-react) - Yeoman generator for Meteor and React.js views
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -1259,6 +1258,7 @@
 - [alm-tools/alm](https://github.com/alm-tools/alm) - :rose: A :cloud: ready IDE just for TypeScript :heart:
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+- [orneryd/ui-grid](https://github.com/orneryd/ui-grid) - UI Grid: a Data Grid
 
 ## Vim Script 
 
