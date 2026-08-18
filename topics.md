@@ -2773,7 +2773,7 @@
 - [willryan/factory.ts](https://github.com/willryan/factory.ts) - A library to ease creation of factories for test data for Typescript
 - [prisma-labs/konn](https://github.com/prisma-labs/konn) - 
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
-- [deepops-ai/deepops](https://github.com/deepops-ai/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
+- [iorigin-ai/deepops](https://github.com/iorigin-ai/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [grid-js/gridjs-react](https://github.com/grid-js/gridjs-react) - React component for Grid.js
