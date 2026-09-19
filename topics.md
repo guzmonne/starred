@@ -1178,7 +1178,7 @@
 
 ## ember 
 
-- [skylines-project/skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
+- [skylines-project/skylines](https://github.com/skylines-project/skylines) - Open-source live tracking, flight database and competition platform for soaring pilots
 
 ## emoji 
 
@@ -1245,6 +1245,7 @@
 ## flask 
 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [skylines-project/skylines](https://github.com/skylines-project/skylines) - Open-source live tracking, flight database and competition platform for soaring pilots
 
 ## font 
 
@@ -2613,6 +2614,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
+- [skylines-project/skylines](https://github.com/skylines-project/skylines) - Open-source live tracking, flight database and competition platform for soaring pilots
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
@@ -3087,7 +3089,7 @@
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [skylines-project/skylines](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework
+- [skylines-project/skylines](https://github.com/skylines-project/skylines) - Open-source live tracking, flight database and competition platform for soaring pilots
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
