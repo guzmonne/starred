@@ -140,7 +140,7 @@
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
-- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
+- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 and 3.1 and 3.2 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
@@ -603,7 +603,7 @@
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [diegoddox/react-redux-toastr](https://github.com/diegoddox/react-redux-toastr) - react-redux-toastr is a toastr message implemented with Redux
 - [gngeorgiev/JsShell](https://github.com/gngeorgiev/JsShell) - :computer: A JavaScript based unix shell with pure JavaScript configs
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [danilop/LambdAuth](https://github.com/danilop/LambdAuth) - A sample authentication service implemented with a server-less architecture, using AWS Lambda to host and execute the code and Amazon DynamoDB as persistent storage. This provides a cost-efficient sol
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [bartonhammond/snowflake](https://github.com/bartonhammond/snowflake) - :snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router,  & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Par
