@@ -904,6 +904,9 @@
 
 ## Rust 
 
+- [JErnestoMtz/rapl](https://github.com/JErnestoMtz/rapl) - Rank Polymorphic array library for Rust.
+- [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) - Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.
+- [andunieee/flipflop](https://github.com/andunieee/flipflop) - filesharing for the meatspace era
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
@@ -1057,6 +1060,7 @@
 
 ## TypeScript 
 
+- [jonaslsaa/pi-optchat](https://github.com/jonaslsaa/pi-optchat) - Persistent infinite memory with profiles, background agents, and conversation imports for Pi.
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use with LLMs
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
